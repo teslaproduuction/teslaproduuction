@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0a1628,100:0d1117&height=220&section=header&text=Tesla&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Embedded%20%E2%80%A2%20Web%20%E2%80%A2%20Networks&descAlignY=60&descColor=8b949e" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,30:bfdbfe,60:93c5fd,100:dbeafe&height=220&section=header&text=Tesla&fontSize=80&fontColor=1d4ed8&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Embedded%20%E2%80%A2%20Web%20%E2%80%A2%20Networks&descAlignY=60&descColor=374151" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=220&section=header&text=Tesla&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Embedded%20%E2%80%A2%20Web%20%E2%80%A2%20Networks&descAlignY=60&descColor=ffffffcc" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=740&lines=Computer+Vision+%26+Embedded+AI+%E2%80%94+RV1106+NPU;Proxy+Infra+%E2%80%94+Xray+%2F+Clash+%2F+WireGuard+%2F+MTProto;Full-Stack+Web+%E2%80%94+Vue+%2B+Go+%2B+Django+%2B+Svelte;RC+%26+UAV+%E2%80%94+ArduPlane+%2B+SITL+%2B+Visual+Nav;3D+Web+%E2%80%94+Three.js+%2F+WebGL+%2F+WASM)](https://git.io/typing-svg)
 
@@ -73,6 +70,10 @@ tesla = {
 ![sing-box](https://img.shields.io/badge/sing--box-5865F2?style=for-the-badge&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC_transport-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
 ![QUIC](https://img.shields.io/badge/QUIC-00897B?style=for-the-badge&logoColor=white)
+![TUIC v5](https://img.shields.io/badge/TUIC_v5-6366f1?style=for-the-badge&logoColor=white)
+![Naïve](https://img.shields.io/badge/Na%C3%AFve_h2%2Fh3-0891b2?style=for-the-badge&logoColor=white)
+![AnyTLS](https://img.shields.io/badge/AnyTLS-0f766e?style=for-the-badge&logoColor=white)
+![mieru](https://img.shields.io/badge/mieru_anti--DPI-7c3aed?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -183,7 +184,4 @@ tesla = {
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,70:163050,100:1a3a5c&height=120&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,40:bfdbfe,70:93c5fd,100:dbeafe&height=120&section=footer" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&section=footer" />
