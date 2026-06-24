@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=220&section=header&text=Tesla&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Embedded%20%E2%80%A2%20Web%20%E2%80%A2%20Networks%20%E2%80%A2%203D&descAlignY=60&descColor=ffffffcc" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Generative+AI+%E2%80%94+Hunyuan3D+%2F+FLUX+%2F+AutoGen+%2F+Claude+API;Computer+Vision+%E2%80%94+YOLOv8+INT8+on+RV1106+NPU;Proxy+Infra+%E2%80%94+20%2B+protocols%2C+Xray+%2F+Clash+%2F+WireGuard;Full-Stack+%E2%80%94+FastAPI+%2B+Django+%2B+React+%2B+Vue+%2B+Go;3D+Web+%E2%80%94+Three.js+%2F+Replicad+%2F+OpenCascade+%2F+Blender+MCP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Generative+AI+%E2%80%94+Hunyuan3D+%2F+FLUX+%2F+AutoGen+%2F+Claude+API;Computer+Vision+%E2%80%94+YOLOv8+INT8+on+RV1106+NPU;Proxy+Infra+%E2%80%94+Xray+%2F+sing-box+%2F+mihomo;Full-Stack+%E2%80%94+FastAPI+%2B+Django+%2B+React+%2B+Vue+%2B+Go;3D+Web+%E2%80%94+Three.js+%2F+Replicad+%2F+OpenCascade+%2F+Blender+MCP)](https://git.io/typing-svg)
 
 </div>
 
