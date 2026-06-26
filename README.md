@@ -65,16 +65,15 @@ tesla = {
 
 ---
 
-### 🗺 Activity
+### 📅 Contributions 3D
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=teslaproduuction&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f3a5f&point=58a6ff&area=true&area_color=1f3a5f&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teslaproduuction&theme=minimal&bg_color=f6f8fa&color=1d4ed8&line=bfdbfe&point=1d4ed8&area=true&area_color=dbeafe&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teslaproduuction/teslaproduuction/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teslaproduuction/teslaproduuction/main/profile-3d-contrib/profile-season.svg" />
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/teslaproduuction/teslaproduuction/main/profile-3d-contrib/profile-season.svg" />
 </picture>
 
----
-
-### 🐍 Contributions
+### 🐍 Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teslaproduuction/teslaproduuction/output/github-contribution-grid-snake-dark.svg" />
